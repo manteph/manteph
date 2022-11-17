@@ -2,7 +2,7 @@
 
 ## Aquest repositori s'utilitza com a índex de tota l'informació que hi trobareu.
 
-###Projecte GameBud
+### Projecte GameBud
 
 
 
